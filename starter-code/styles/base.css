@@ -8,6 +8,10 @@ body {
   font-size: 100%;
   color: #313131;
 }
+#main-section {
+  min-height: 62vh;
+  background-color: grey;
+}
 
 hr {
   margin: 1em;
